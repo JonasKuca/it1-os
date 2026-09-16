@@ -6,6 +6,6 @@
 - https://fedoraproject.org/
 - https://redhat.com
 - https://endeavours.com/
-##todo
+## todo
 -[ ]musim si dopsat vsechny weby
 -[x]-splnen ukol cislo 1-

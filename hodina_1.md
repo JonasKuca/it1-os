@@ -6,5 +6,6 @@ https://ubuntu.com
 https://fedoraproject.org/
 https://redhat.com
 https://endeavours.com/
-~~todo
--[] musim si dopsat vsechny weby
+##todo
+-[ ]musim si dopsat vsechny weby
+-[x]-splnen ukol cislo 1-

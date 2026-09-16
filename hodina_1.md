@@ -1,3 +1,6 @@
 #zajimave weby pro předmět os
 https://www.root.cz
 https://www.tomshardware.com
+https://devian.org
+https://ubuntu.com
+https://fedoraproject.org/

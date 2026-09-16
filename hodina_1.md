@@ -7,5 +7,5 @@
 - https://redhat.com
 - https://endeavours.com/
 ## todo
-- [ ]musim si dopsat vsechny weby
-- [x]-splnen ukol cislo 1-
+- [ ] musim si dopsat vsechny weby
+- [x] -splnen ukol cislo 1-

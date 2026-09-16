@@ -4,3 +4,5 @@ https://www.tomshardware.com
 https://devian.org
 https://ubuntu.com
 https://fedoraproject.org/
+https://redhat.com
+https://endeavours.com/
